@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client.csproj", "{EFC050B8-DC6C-4618-AACB-3BCE1E641200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC050B8-DC6C-4618-AACB-3BCE1E641200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC050B8-DC6C-4618-AACB-3BCE1E641200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC050B8-DC6C-4618-AACB-3BCE1E641200}.Debug|x64.ActiveCfg = Debug|x64
+		{EFC050B8-DC6C-4618-AACB-3BCE1E641200}.Debug|x64.Build.0 = Debug|x64
+		{EFC050B8-DC6C-4618-AACB-3BCE1E641200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC050B8-DC6C-4618-AACB-3BCE1E641200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC050B8-DC6C-4618-AACB-3BCE1E641200}.Release|x64.ActiveCfg = Release|x64
+		{EFC050B8-DC6C-4618-AACB-3BCE1E641200}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9F27E6A-8FE3-44C9-9735-DF3E97F94982}
+	EndGlobalSection
+EndGlobal
